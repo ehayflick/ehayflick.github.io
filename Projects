@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Emily Hayflick</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <style>
+      body {
+        font-family: 'Noto Sans Mono', sans-serif;
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container my-4">
+      <div class="row px-4">
+        <h1>Emily Hayflick</h1>
+      </div>
+      <div class="row px-4">
+        <h3>PhD student in anthropology</h3>
+      </div>
+      <div class="row border border-success px-4 py-5">
+        <div class="col-lg text-center pb-4">
+        </div>
+        <div class="col-lg">
+          <h4>Projects&nbsp;&nbsp;&nbsp;</h4>
+          <p>
+Digital Exhibtions: 
+         </p>
+         <p>
+Co-curator (with Lynda May Xepoleas), Engaging Communities, Empowering Students: Fostering Cross-Cultural Connections through Dress, 1936-1958, Cornell Fashion + Textile Collection, Ithaca, NY, October 15, 2021 –January 31, 2022. https://exhibits.library.cornell.edu/engaging-communities-empowering-students
+         </p>
+         <p>
+Contributor, “Traditional Ecological Knowledge,” Shaped by the Loom: Weaving Worlds in the American Southwest, curated by Hadley Welch Jensen, The Bard Graduate Center Gallery. https://exhibitions.bgc.bard.edu/shapedbytheloom/theme/ecology/traditional-ecological-knowledge-tek/
+  </body>
+</html>
